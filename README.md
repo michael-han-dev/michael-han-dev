@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">I'm a creative problem solver and software engineer with a passion for building innovative, scalable solutions that make a meaningful impact—exploring the intersection of AI, Full-Stack Development, and Entrepreneurship.</h3>
 
-- 👨‍💻 All of my projects are available at [https://michaelhan.dev/](https://michaelhan.dev/)
+- 🔭 I’m currently working on [LeetcodeEngine](https://github.com/michael-han-dev/OA-to-Leetcode-Comparer)
+
+- 🌱 I’m currently learning **backend development**
+
+- 👨‍💻 All of my projects are available here on github and at [https://michaelhan.dev/](https://michaelhan.dev/)
 
 - 📝 I regularly write articles on [https://michaelhan.substack.com/](https://michaelhan.substack.com/)
 

@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available here on github and at [https://michaelhan.dev/](https://michaelhan.dev/)
 
-- 📝 I regularly write articles on [https://michaelhan.substack.com/](https://michaelhan.substack.com/)
-
 - 📫 How to reach me **unimichael14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

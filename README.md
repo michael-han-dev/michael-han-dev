@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Michael</h1>
 <h3 align="left">I'm a creative problem solver and software engineer with a passion for building innovative, scalable solutions that make a meaningful impact—exploring the intersection of AI, Full-Stack Development, and Entrepreneurship.</h3>
 
-- 🔭 I’m currently working on [https://merin.ai](https://www.merin.ai/) + some other fun stuff
+- 🔭 I’m currently working on some fun stuff
 
 - 👨‍💻 All of my projects are available here on github and at [https://michaelhan.dev/](https://michaelhan.dev/)
 

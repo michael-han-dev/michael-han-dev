@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Michael</h1>
-<h3 align="left">I'm a chilli making dev currently exploring the intersection of AI, Full-Stack Development, and Entrepreneurship. Previously did some Hyperloop research, Pharmacokinetics research and tried my luck at Quantum Dot Solar Panels.</h3>
+<h3 align="left">I'm a chilli making dev currently interning at Rootly (YC S21)</h3>
 
 - 🔭 I’m currently tinkering on some fun stuff...
 

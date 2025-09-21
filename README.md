@@ -1,9 +1,7 @@
-<h1 align="left">Hi 👋, I'm Michael</h1>
-<h3 align="left">I'm a chilli making dev currently interning at Rootly (YC S21)</h3>
+<h1 align="left">Hi! I'm Michael</h1>
+<h3 align="left">I study mathematics and computer engineering at Queen's University (on a gap year), set to graduate in 2027. I'm currently interning at Rootly (YC S21). I have a strong foundation in software and mathematics.</h3>
 
-- 🔭 I’m currently tinkering on some fun stuff...
-
-- 👨‍💻 All of my projects are available here on github and at [https://michaelhan.dev/](https://michaelhan.dev/)
+- Learn more about me at [https://michaelhan.dev/](https://michaelhan.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

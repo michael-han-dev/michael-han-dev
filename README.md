@@ -1,5 +1,5 @@
 <h1 align="left">Hi! I'm Michael</h1>
-<h3 align="left">I study mathematics and computer engineering at Queen's University, set to graduate in 2027. I'm currently interning at Rootly (YC S21). I have a strong foundation in software and mathematics.</h3>
+<h3 align="left">I study mathematics and computer engineering at Queen's University, set to graduate in 2027. I'm currently interning at Rootly (YC S21) building the future of AI SRE. I have a strong foundation in software and mathematics.</h3>
 
 - Learn more about me at [https://michaelhan.dev/](https://michaelhan.dev/)
 
